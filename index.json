@@ -105,12 +105,14 @@
   "__v2": {
     "version": "2.0.0",
     "packages": {
-      "@elizaos/plugin-starter": "packages/plugin-starter.json"
+      "@elizaos/plugin-starter": "packages/plugin-starter.json",
+      "@elizaos/plugin-loralab": "packages/plugin-loralab.json"
     },
     "categories": {},
     "types": {
       "plugin": [
-        "@elizaos/plugin-starter"
+        "@elizaos/plugin-starter",
+        "@elizaos/plugin-loralab"
       ],
       "project": [],
       "module": []
