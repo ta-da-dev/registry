@@ -1,0 +1,37 @@
+{
+  "name": "@elizaos/plugin-loralab",
+  "description": "LoraLab image & video generation plugin for elizaOS",
+  "repository": {
+    "type": "git",
+    "url": "github:ta-da-dev/plugin-loralab"
+  },
+  "maintainers": [
+    {
+      "name": "ta-da-dev",
+      "github": "ta-da-dev"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin",
+    "elizaos",
+    "image-generation",
+    "video-generation",
+    "loralab"
+  ],
+  "versions": [
+    {
+      "version": "0.1.0",
+      "gitBranch": "0.1.0",
+      "gitTag": "v0.1.0",
+      "runtimeVersion": "1.0.0-beta.49",
+      "releaseDate": "2025-05-12T08:40:16.204Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": "0.1.0",
+  "latestVersion": "0.1.0",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
